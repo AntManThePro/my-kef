@@ -1,0 +1,13 @@
+{
+  "name": "MY KEF // NEXUS ARCHIVE",
+  "short_name": "MY KEF",
+  "description": "Commercial kitchen exhaust fan and pollution control equipment passport, diagnostics, maintenance timeline, and source library. Local-only demo records.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07070a",
+  "theme_color": "#07070a",
+  "icons": [
+    { "src": "icons/favicon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
