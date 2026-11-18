@@ -4,6 +4,14 @@ Commercial kitchen exhaust fan (KEF) and pollution control equipment passport �
 
 Live: https://my-kef.netlify.app/
 
+## How to use
+
+1. Open the live site and pick **Overview** to see your assets, open findings, and recent service activity.
+2. Open **Equipment passports** to register a fan or pollution control unit (make, model, serial, config) or search one you already saved.
+3. Use **Diagnostics** to record what you actually saw on the unit — symptom first, then diagnosis, action, and verification, kept separate.
+4. Use **Log service event** to add a visit, inspection, fault, or audit to the timeline, and **Export JSON** to take the whole registry with you.
+5. Print a QR asset label from a passport — demo QR visual only; encode a stable asset URL in production.
+
 ## What it does
 
 - **Equipment passports** — register assets with make/model/serial/config, edit metadata, print QR labels (demo QR visual only — encode a stable asset URL in production).
@@ -19,5 +27,11 @@ Ships with fictional demo records, honestly labeled throughout ("LOCAL DEMO DATA
 ## Install
 
 Open `index.html` in any modern browser, or serve the folder statically. Add to Home Screen — custom icon set included (`icons/`, `manifest.json`).
+
+## Links
+
+- Live site: https://my-kef.netlify.app/
+- NEXUS World Hub: https://nexus-world-hub.netlify.app/
+- Repo: https://github.com/AntManThePro/my-kef
 
 DoubleA @ AntManThePro · NExtended Xperimental USers
